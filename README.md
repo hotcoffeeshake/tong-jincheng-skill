@@ -14,6 +14,30 @@
 
 <br>
 
+## 5/20 微信小程序正式上线
+
+在微信搜 **「情商练习有事问AI」**，就能让童锦程做你的练爱导师。
+
+上传你的聊天截图，它会帮你复盘对话、找到问题出在哪。<br>
+女生发来的消息不知道怎么回？它会帮你构思下一句，让你不再卡在输入框前。
+
+App 版本制作中，回复更方便。加群获得内测名额。
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/promo/wechat-miniprogram.jpg" alt="情商练习有事问AI 微信小程序码" width="280"><br>
+      <strong>微信小程序</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/promo/beta-group.jpg" alt="练爱导师产品体验群二维码" width="280"><br>
+      <strong>App 内测群</strong>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 9个一手视频字幕（直播合集+约会vlog+搭讪解析），约20万字原始素材。<br>
 不是复读语录，是用他看世界的方式帮你分析问题。
 

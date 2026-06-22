@@ -30,7 +30,7 @@
       <strong>微信小程序</strong>
     </td>
     <td align="center" width="50%">
-      <img src="assets/promo/beta-group.jpg" alt="练爱导师服务号二维码" width="280"><br>
+      <img src="assets/promo/service-account.jpg" alt="练爱导师服务号二维码" width="280"><br>
       <strong>服务号</strong>
     </td>
   </tr>

@@ -21,7 +21,7 @@
 上传你的聊天截图，它会帮你复盘对话、找到问题出在哪。<br>
 女生发来的消息不知道怎么回？它会帮你构思下一句，让你不再卡在输入框前。
 
-App 版本制作中，回复更方便。加群获得内测名额。
+扫码体验小程序，关注服务号学习更多恋爱干货，可后台留言产品反馈
 
 <table>
   <tr>
@@ -30,8 +30,8 @@ App 版本制作中，回复更方便。加群获得内测名额。
       <strong>微信小程序</strong>
     </td>
     <td align="center" width="50%">
-      <img src="assets/promo/beta-group.jpg" alt="练爱导师产品体验群二维码" width="280"><br>
-      <strong>App 内测群</strong>
+      <img src="assets/promo/beta-group.jpg" alt="练爱导师服务号二维码" width="280"><br>
+      <strong>服务号</strong>
     </td>
   </tr>
 </table>

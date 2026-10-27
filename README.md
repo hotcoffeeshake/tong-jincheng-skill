@@ -21,7 +21,7 @@
 上传你的聊天截图，它会帮你复盘对话、找到问题出在哪。<br>
 女生发来的消息不知道怎么回？它会帮你构思下一句，让你不再卡在输入框前。
 
-扫码体验小程序，关注服务号学习更多恋爱干货，可后台留言产品反馈
+扫码体验小程序，关注订阅号学习更多恋爱干货，可后台留言产品反馈
 
 <table>
   <tr>
@@ -30,11 +30,15 @@
       <strong>微信小程序</strong>
     </td>
     <td align="center" width="50%">
-      <img src="assets/promo/service-account.jpg" alt="练爱导师服务号二维码" width="280"><br>
-      <strong>服务号</strong>
+      <img src="assets/promo/subscription-account.jpg" alt="微信订阅号二维码" width="280"><br>
+      <strong>订阅号</strong>
     </td>
   </tr>
 </table>
+
+**不想装 Skill？电脑上也能直接用：[r2i84a.chat](https://r2i84a.chat/?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)**
+
+[她回「嗯」「哦」「哈哈」怎么接](https://r2i84a.chat/answers?utm_source=github&utm_medium=readme&utm_campaign=tong-skill) · [童锦程 Skill 网页版说明](https://r2i84a.chat/tong-jincheng-skill?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)
 
 <br>
 

@@ -36,9 +36,16 @@
   </tr>
 </table>
 
-**不想装 Skill？电脑上也能直接用：[r2i84a.chat](https://r2i84a.chat/?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)**
+**配套网站：[r2i84a.chat](https://r2i84a.chat/?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)，不用装 Skill，打开就能看**
 
-[她回「嗯」「哦」「哈哈」怎么接](https://r2i84a.chat/answers?utm_source=github&utm_medium=readme&utm_campaign=tong-skill) · [童锦程 Skill 网页版说明](https://r2i84a.chat/tong-jincheng-skill?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)
+在网站上可以学到：
+
+- **她回这句是什么意思、怎么接**：「嗯」「哦」「哈哈」「随便」「在忙」「没干嘛」、回消息慢、突然不回……一个问题一页，先判断她处在什么状态，再给能直接发的回复。[去看问答](https://r2i84a.chat/answers?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)
+- **怎么判断你们现在到哪一步**：升温、平稳、降温，还是已经拒绝；什么时候该推进、该缓一缓、该停。
+- **聊天和约会的实战文章**：开场白、没话聊怎么续、约不出来的原因、第一次约会聊什么，30 多篇。[去看文章](https://r2i84a.chat/blog?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)
+- **童锦程 Skill 是什么、怎么用**：[Skill 说明页](https://r2i84a.chat/tong-jincheng-skill?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)
+
+想让 AI 直接帮你复盘自己的聊天截图，用上面的小程序。
 
 <br>
 

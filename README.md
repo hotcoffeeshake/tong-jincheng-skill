@@ -21,7 +21,7 @@
 上传你的聊天截图，它会帮你复盘对话、找到问题出在哪。<br>
 女生发来的消息不知道怎么回？它会帮你构思下一句，让你不再卡在输入框前。
 
-扫码体验小程序，关注服务号学习更多恋爱干货，可后台留言产品反馈
+扫码体验小程序，关注订阅号学习更多恋爱干货，可后台留言产品反馈
 
 <table>
   <tr>
@@ -30,11 +30,22 @@
       <strong>微信小程序</strong>
     </td>
     <td align="center" width="50%">
-      <img src="assets/promo/service-account.jpg" alt="练爱导师服务号二维码" width="280"><br>
-      <strong>服务号</strong>
+      <img src="assets/promo/subscription-account.jpg" alt="微信订阅号二维码" width="280"><br>
+      <strong>订阅号</strong>
     </td>
   </tr>
 </table>
+
+**配套网站：[r2i84a.chat](https://r2i84a.chat/?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)，不用装 Skill，打开就能看**
+
+在网站上可以学到：
+
+- **她回这句是什么意思、怎么接**：「嗯」「哦」「哈哈」「随便」「在忙」「没干嘛」、回消息慢、突然不回……一个问题一页，先判断她处在什么状态，再给能直接发的回复。[去看问答](https://r2i84a.chat/answers?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)
+- **怎么判断你们现在到哪一步**：升温、平稳、降温，还是已经拒绝；什么时候该推进、该缓一缓、该停。
+- **聊天和约会的实战文章**：开场白、没话聊怎么续、约不出来的原因、第一次约会聊什么，30 多篇。[去看文章](https://r2i84a.chat/blog?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)
+- **童锦程 Skill 是什么、怎么用**：[Skill 说明页](https://r2i84a.chat/tong-jincheng-skill?utm_source=github&utm_medium=readme&utm_campaign=tong-skill)
+
+想让 AI 直接帮你复盘自己的聊天截图，用上面的小程序。
 
 <br>
 

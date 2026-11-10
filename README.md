@@ -16,7 +16,7 @@
 
 ## 5/20 微信小程序正式上线
 
-在微信搜 **「情商练习有事问AI」**，就能让童锦程做你的练爱导师。
+在微信搜 **「人小鬼大恋爱助手」**，就能让童锦程做你的练爱导师。
 
 上传你的聊天截图，它会帮你复盘对话、找到问题出在哪。<br>
 女生发来的消息不知道怎么回？它会帮你构思下一句，让你不再卡在输入框前。
@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/promo/wechat-miniprogram.jpg" alt="情商练习有事问AI 微信小程序码" width="280"><br>
+      <img src="assets/promo/wechat-miniprogram.jpg" alt="人小鬼大恋爱助手 微信小程序码" width="280"><br>
       <strong>微信小程序</strong>
     </td>
     <td align="center" width="50%">
